@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "MiWebAPI.Controllers.EmpleadoController",
+    "Method": "AddCompra",
+    "RelativePath": "api/Empleado/AddCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "MiWebAPI.Models.Compra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiWebAPI.Controllers.EmpleadoController",
+    "Method": "DeleteCompra",
+    "RelativePath": "api/Empleado/DeleteCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiWebAPI.Controllers.EmpleadoController",
+    "Method": "Lista",
+    "RelativePath": "api/Empleado/GetCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filtro",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiWebAPI.Controllers.EmpleadoController",
+    "Method": "UpdateCompra",
+    "RelativePath": "api/Empleado/UpdateCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "MiWebAPI.Models.Compra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
