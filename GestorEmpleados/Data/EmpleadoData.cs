@@ -52,7 +52,7 @@ namespace MiWebAPI.Data
 
 
         /// <summary>
-        /// Agrega un empleado
+        /// Agrega un empleado -----edit
         /// </summary>
         /// <param name="objeto"></param>
         /// <returns></returns>
@@ -89,7 +89,7 @@ namespace MiWebAPI.Data
         }
 
         /// <summary>
-        /// Actualiza un empleado
+        /// Actualiza un empleado ---nuevo editado
         /// </summary>
         /// <param name="objeto"></param>
         /// <returns></returns>
