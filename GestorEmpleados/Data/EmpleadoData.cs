@@ -17,7 +17,7 @@ namespace MiWebAPI.Data
 
 
         /// <summary>
-        /// Consulta lista de empleados
+        /// Consulta lista de empleados -------
         /// </summary>
         /// <returns></returns>
         public async Task<List<Compra>> GetCompra(string filtro)
